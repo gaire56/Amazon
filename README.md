@@ -17,3 +17,7 @@ Run commands
 2. `yarn install`
 
 3. `yarn run dev`
+
+
+## USE THE FOLLOWING CARD DETAILS FOR DEMO PAYMENT:
+Card Number: 4242 4242 4242 Exp Date: 04/24 CVV: 424
