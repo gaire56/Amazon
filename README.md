@@ -19,5 +19,8 @@ Run commands
 3. `yarn run dev`
 
 
+## Final build demo link
+https://amazon-gaire56.vercel.app/
+
 ## USE THE FOLLOWING CARD DETAILS FOR DEMO PAYMENT:
 Card Number: 4242 4242 4242 Exp Date: 04/24 CVV: 424
